@@ -1,4 +1,4 @@
-- > Hi, I’m @NITIN01KUMA
+- > Hi, I’m NITIN KUMAR
 - > I’m interested in web development 
 - > I’m currently learning c++
 - > I’m looking to collaborate on ______
